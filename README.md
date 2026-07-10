@@ -1,8 +1,8 @@
 # Project: Mundane
 
 **Genre:** 2D Simulation, Rhythm, Narrative Time-Loop  
-**Engine:** Godot 4.x  
-**Developers:** eitophetamine & flurger  
+**Engine:** Godot 4.7 
+**Developers:** eitophetamine9 & flurgerburger  
 
 ## High-Level Concept
 Players take on the role of a blacksmith trapped within a time loop. The core objective is to manage a 2D blacksmithing shop by taking commissions, crafting items via rhythm-based minigames, and performing quality control. Over time, the mundanity of the job degrades the blacksmith's skill, which ties directly into the fate of a recurring hero and the progression of the time loop.
