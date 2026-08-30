@@ -1,6 +1,6 @@
 # Project: Mundane
 
-**Genre:** 2D Simulation, Rhythm, Narrative Time-Loop  
+**Genre:** 2D Simulation, Rhythm, Narrative Time-Loop, Story Based
 **Engine:** Godot 4.7 
 **Developers:** eitophetamine9 & flurgerburger  
 
