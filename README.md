@@ -5,7 +5,7 @@
 **Developers:** eitophetamine9 & flurgerburger  
 
 ## High-Level Concept
-Players take on the role of a blacksmith trapped within a time loop. The core objective is to manage a 2D blacksmithing shop by taking commissions, crafting items via rhythm-based minigames, and performing quality control. Over time, the mundanity of the job degrades the blacksmith's skill, which ties directly into the fate of a recurring hero and the progression of the time loop.
+Players take on the role of a blacksmith trapped within a time loop. The core objective is to manage a 2D blacksmithing shop by taking commissions, crafting items via rhythm-based minigames, and performing quality control. Over time, the mundanity of the job degrades the blacksmith's skill, which ties directly into the fate of a recurring hero and the progression of the time loop in which explains the mundanity of the game.
 
 ## Core Gameplay Mechanics
 * **Commissions:** Accept daily requests from various customers for weapons and equipment to keep the shop running.
@@ -28,3 +28,4 @@ Players take on the role of a blacksmith trapped within a time loop. The core ob
 * **Main Branch:** Reserved for stable, playable builds. 
 * **Feature Branches:** Create a new branch for specific features (e.g., `feature/rhythm-ui` or `feature/hero-dialogue`).
 * **Commits:** Write clear, descriptive commit messages so we can track changes easily.
+
