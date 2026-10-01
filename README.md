@@ -25,7 +25,7 @@ Players take on the role of a blacksmith trapped within a time loop. The core ob
 4. Ensure you are working on your assigned branch before making changes to the scene tree.
 
 ## Contribution Guidelines
-* **Main Branch:** Reserved for stable, playable builds. 
+* **Main Branch:** Reserved for stable, playable builds. (later)
 * **Feature Branches:** Create a new branch for specific features (e.g., `feature/rhythm-ui` or `feature/hero-dialogue`).
 * **Commits:** Write clear, descriptive commit messages so we can track changes easily.
 
